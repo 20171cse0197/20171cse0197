@@ -1,0 +1,17 @@
+<html>
+<head>
+
+<title>HTML frames</title>
+</head>
+
+<frameset rows="10%,80%,10%">
+<frame name="top"src="/home/6CSE3/Downloads/index.jpeg"/>
+<frame name="main"src="/home/6CSE3/Downloads/screen-0.jpg"/>
+<frame name="bottom"src="/home/6CSE3/Downloads/magic-wand.jpg"/>
+
+<noframes>
+<body>yor brower does not support frames.</body>
+</noframes>
+</frameset>
+</html>
+
