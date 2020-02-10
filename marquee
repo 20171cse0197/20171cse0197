@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      marquee{
+      font-size: 30px;
+      font-weight: 800;
+      color: #8ebf42;
+      font-family: sans-serif;
+background-color:yellow;
+      }
+    </style>
+  </head>
+  <body>
+    <marquee scrollamount="100"><i>Rocky Farhan created with HTML Marquee element.</marquee>
+   <marquee behavior="scroll" direction="left">
+<img src="/home/6CSE3/Downloads/magic-wand.jpg"/>
+   <marquee behavior="slide" direction="right">
+<img src="/home/6CSE3/Downloads/screen-0.jpg"/>
+  </body>
+  </body>
+</html>
