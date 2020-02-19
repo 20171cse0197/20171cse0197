@@ -1,0 +1,22 @@
+<style>
+h1,h2,h3{
+  color:#999966
+}
+a:link{
+   color:red;
+font-family:courier;
+font-weight:bold;
+
+}
+a:hover{
+   color:blue;
+}a:visited{
+   color:yellow;
+font-weight:normal;
+}a:active{
+   color:pink;
+}
+p,li{
+   color:#993311
+</style> 
+
